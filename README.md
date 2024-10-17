@@ -17,7 +17,7 @@
 
 - **Level3**
     
-    ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&&logoColor=white)
 
 <br>   
     
@@ -25,8 +25,11 @@
 
     ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
     ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+    ![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <br>
 
@@ -34,6 +37,8 @@
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,11 +47,12 @@
 
 <br>
 
-- **Softwares and Tools**:
+- **Softwares and Tools**
 
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white)
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+  
 </p>
 
 <br>
