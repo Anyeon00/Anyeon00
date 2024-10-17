@@ -50,8 +50,8 @@
 - **Softwares and Tools**
 
     ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-    <!-- ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white) -->
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    <!-- ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white) -->
   
 </p>
 
