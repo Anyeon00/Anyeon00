@@ -66,7 +66,7 @@
 
 <a href="https://velog.io/@seluo65/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-<a href="seluo65@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
+<a href="mailto:seluo65@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 </div>
 
 <br>
