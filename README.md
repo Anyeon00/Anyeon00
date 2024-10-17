@@ -1,7 +1,11 @@
 
 <h1 align="center"><b>Hi , There </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align="center">
+	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Lee_hyeongseok&fontSize=90)
+
+</div>
 
 
 
@@ -44,7 +48,6 @@
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </p>
-
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
