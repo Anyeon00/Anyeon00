@@ -33,8 +33,8 @@
 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-    ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+    ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
     ![H2](https://img.shields.io/badge/H2-0B5CFF?style=for-the-badge&logo=H2&logoColor=white)
 
 <br>
@@ -46,8 +46,9 @@
   ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![SpringDataJPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&&logo=Hibernate&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
+  ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?&style=for-the-badge&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
   ![Swing](https://img.shields.io/badge/Swing-ED8B00?&style=for-the-badge&logo=Swing&logoColor=white)
   
