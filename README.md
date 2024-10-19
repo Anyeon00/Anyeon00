@@ -44,7 +44,7 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
   ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-  ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
+  ![SpringDataJPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&&logo=Hibernate&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
