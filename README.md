@@ -47,6 +47,8 @@
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Swing](https://img.shields.io/badge/Swing-ED8B00?&style=for-the-badge&logo=Swing&logoColor=white)
   
 <br>
 
@@ -57,6 +59,8 @@
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
     ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white)
+    ![Junit5](https://img.shields.io/badge/Junit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white)
+    ![Mockito](https://img.shields.io/badge/Mockito-ED8B00?&style=for-the-badge&logo=Mockito&logoColor=white)
 </p>
 
 <!--
