@@ -39,7 +39,7 @@
 
 <br>
 
-- 🛠️ **Frameworks & Libraries**
+- 📚 **Frameworks & Libraries**
 
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
