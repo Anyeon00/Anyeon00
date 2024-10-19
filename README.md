@@ -34,12 +34,15 @@
 - **Level1**
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,7 +56,7 @@
     ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white)
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
-  <!-- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white) -->
+    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white)
 </p>
 
 <!--
