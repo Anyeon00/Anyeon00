@@ -50,7 +50,7 @@
   ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?&style=for-the-badge&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Swing](https://img.shields.io/badge/Swing-ED8B00?&style=for-the-badge&logo=Swing&logoColor=white)
+  ![JavaSwing](https://img.shields.io/badge/Java_Swing-ED8B00?&style=for-the-badge&logo=JavaSwing&logoColor=white)
   
 <br>
 
