@@ -15,7 +15,7 @@
 
 <p align="center">
 
-- **Language**
+- 💻 **Languages**
     
     ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,15 +29,17 @@
   
 <br>   
     
-- **Database**
+- 🛢️ **Databases**
 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
-     
+    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+    ![H2](https://img.shields.io/badge/H2-0B5CFF?style=for-the-badge&logo=H2&logoColor=white)
+
 <br>
 
-- **Framework and Library**
+- 🛠️ **Frameworks & Libraries**
 
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -45,15 +47,20 @@
   ![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&&logo=Hibernate&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
   ![Swing](https://img.shields.io/badge/Swing-ED8B00?&style=for-the-badge&logo=Swing&logoColor=white)
   
 <br>
 
-- **Softwares and Tools**
+- 📦 **Infrastructure & DevOps**
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+  <br>
+
+- 🛠️ **Development Tools**
 
     ![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -65,8 +72,8 @@
     ![Mockito](https://img.shields.io/badge/Mockito-ED8B00?&style=for-the-badge&logo=Mockito&logoColor=white)
 
   <br>
-
-- **Coorperation**
+  
+- 🤝 **Collaboration Tools**
 
     ![Discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=Discord&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white)
