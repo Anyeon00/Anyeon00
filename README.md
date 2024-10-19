@@ -51,8 +51,9 @@
 
     ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    <!-- ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white) -->
-  
+    ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
+  <!-- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white) -->
 </p>
 
 <!--
