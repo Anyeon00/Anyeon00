@@ -55,6 +55,7 @@
 
 - **Softwares and Tools**
 
+    ![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=for-the-badge&logo=GitKraken&logoColor=white)
     ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -62,6 +63,15 @@
     ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white)
     ![Junit5](https://img.shields.io/badge/Junit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white)
     ![Mockito](https://img.shields.io/badge/Mockito-ED8B00?&style=for-the-badge&logo=Mockito&logoColor=white)
+
+  <br>
+
+- **Coorperation**
+
+    ![Discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=Discord&logoColor=white)
+    ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white)
+    ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?&style=for-the-badge&logo=Zoom&logoColor=white)
+    ![Notion](https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=Notion&logoColor=white)
   
 </p>
 
