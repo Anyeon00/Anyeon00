@@ -51,6 +51,7 @@
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
   ![JSP](https://img.shields.io/badge/JSP-ED8B00?&style=for-the-badge&logo=JSP&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
+  ![ApacheTomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?&style=for-the-badge&logo=ApacheTomcat&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
   ![JavaSwing](https://img.shields.io/badge/Java_Swing-ED8B00?&style=for-the-badge&logo=JavaSwing&logoColor=white)
   
@@ -78,6 +79,8 @@
   
 - 🤝 **Collaboration Tools**
 
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-0052CC?&style=for-the-badge&logo=Trello&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=Discord&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white)
     ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?&style=for-the-badge&logo=Zoom&logoColor=white)
