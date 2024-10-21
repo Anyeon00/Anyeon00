@@ -46,6 +46,7 @@
   ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![SpringDataJPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&&logo=Hibernate&logoColor=white)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-0095D5?style=for-the-badge&&logo=QueryDSL&logoColor=white)
   ![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?&style=for-the-badge&logoColor=white)
   ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?&style=for-the-badge&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
