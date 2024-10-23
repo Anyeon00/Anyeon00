@@ -75,6 +75,7 @@
     ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&style=for-the-badge&logo=Swagger&logoColor=white)
     ![Junit5](https://img.shields.io/badge/Junit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white)
     ![Mockito](https://img.shields.io/badge/Mockito-ED8B00?&style=for-the-badge&logo=Mockito&logoColor=white)
+    ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white)
 
   <br>
   
