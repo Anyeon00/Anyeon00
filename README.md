@@ -54,8 +54,8 @@
   ![JSP](https://img.shields.io/badge/JSP-ED8B00?&style=for-the-badge&logo=JSP&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-ED8B00?style=for-the-badge&logoColor=white)
   ![ApacheTomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?&style=for-the-badge&logo=ApacheTomcat&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
   ![JavaSwing](https://img.shields.io/badge/Java_Swing-ED8B00?&style=for-the-badge&logo=JavaSwing&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00878F?&style=for-the-badge&logo=Arduino&logoColor=white)
   
 <br>
 
